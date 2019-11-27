@@ -1,0 +1,4 @@
+{
+  "scripts/test01.py::TestLogin::()::test_login_001": true,
+  "scripts/test01.py::TestLogin::()::test_login_002": true
+}
